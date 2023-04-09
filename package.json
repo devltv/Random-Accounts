@@ -17,7 +17,7 @@
   },
   "description": "random information accounts",
   "repository": {
-    "type": "https://github.com/devltv/Random-Accounts.git",
+    "type": "git+https://github.com/devltv/Random-Accounts.git",
     "url": "git"
   }
 }
